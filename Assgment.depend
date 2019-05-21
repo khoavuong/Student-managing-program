@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1539867008 source:c:\users\user\desktop\btl khoi\function.cpp
+	"Function.h"
+
+1528692265 c:\users\user\desktop\btl khoi\readfile.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<Windows.h>
+	<iomanip>
+	<stdlib.h>
+	<cstdlib>
+
+1538154632 source:c:\users\user\desktop\btl khoi\main.cpp
+	"Function.h"
+
+1528859092 c:\users\user\desktop\btl khoi\function.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<Windows.h>
+	<iomanip>
+	<stdlib.h>
+	<cstdlib>
+
